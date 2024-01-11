@@ -1,7 +1,7 @@
-import { useEffect, useState } from "react";
-import Item from "./Item";
-import cardapio from "./itens.json";
-import styles from "./Itens.module.scss";
+import { useEffect, useState } from 'react';
+import Item from './Item';
+import cardapio from 'data/cardapio.json';
+import styles from './Itens.module.scss';
 
 interface ItensProps {
   busca: string;
@@ -13,7 +13,7 @@ export default function Itens({ busca, filtro, ordenador }: ItensProps) {
   const [lista, setLista] = useState(cardapio);
 
   function testaBusca(title: string) {
-    const regex = new RegExp(busca, "i");
+    const regex = new RegExp(busca, 'i');
     return regex.test(title);
   }
 
@@ -24,21 +24,21 @@ export default function Itens({ busca, filtro, ordenador }: ItensProps) {
 
   function ordenarPropriedadeCrescente(
     lista: typeof cardapio,
-    propriedade: "size" | "serving" | "price"
+    propriedade: 'size' | 'serving' | 'price'
   ) {
     return lista.sort((a, b) => (a[propriedade] > b[propriedade] ? 1 : -1));
   }
 
   function ordenar(novaLista: typeof cardapio) {
     switch (ordenador) {
-      case "porcao":
-        return ordenarPropriedadeCrescente(novaLista, "size");
-      case "qtd_pessoas":
-        return ordenarPropriedadeCrescente(novaLista, "serving");
-      case "preco":
-        return ordenarPropriedadeCrescente(novaLista, "price");
-      default:
-        return novaLista;
+    case 'porcao':
+      return ordenarPropriedadeCrescente(novaLista, 'size');
+    case 'qtd_pessoas':
+      return ordenarPropriedadeCrescente(novaLista, 'serving');
+    case 'preco':
+      return ordenarPropriedadeCrescente(novaLista, 'price');
+    default:
+      return novaLista;
     }
   }
 
