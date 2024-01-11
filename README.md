@@ -1,46 +1,67 @@
-# Getting Started with Create React App
+# Aluroni
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aluroni's development started during Alura's Class *React: handling static files*. In this class I created a Italian restaurant menu wich you can navigate as you wish: see the complete menu and order it using the ordanator options, filter specific dishes using the filters or search for a specific dish using the search input.
 
-## Available Scripts
+For the developmento of the project I used TypeScript. CSS was written using CSS Modules and classNames package.
 
-In the project directory, you can run:
+> The project is expanding at the moment in the class *React: React Router library*
 
-### `npm start`
+To see the project development so far, click [here](https://learning-react-typescript-aluroni.vercel.app/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Used tools:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* React
+* TypeScript
+* SASS
+* classnames
 
-### `npm test`
+*(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Initializing the project on your computer
 
-### `npm run build`
+- Clone the repository using the command line:
+    - git clone *link of the repository*
+    - cd *file of the repository*
+ 
+- Go to the projects main file:
+    - cd *name of the file*
+ 
+- Run the code:
+    - npm install (to install all project's dependencies)
+    - npm start (to open the project on your browser)
+ 
+* In case the project does not opend automatically type http://localhost:3000 on your browser
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Aluroni
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O Aluroni começou a ser desenvolvido durante o curso *React: lidando com arquivos estáticos*, da Alura. Nesse curso criei a página de cardápio de um restaurante italiano no qual você consegue navegar de acordo com suas preferências: visualize o cardápio inteiro ordenando de acordo com as opções de ordenador, filtre pratos específicos utilizando os filtros ou pesquise por um prato em específico utilizando o input de busca.
 
-### `npm run eject`
+Para o desenvolvimento do projeto foi utilizado TypeScript. O CSS foi escrito utilizando CSS Modules e o pacote classNames.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+> No momento o projeto está sendo expandido durante o curso *React: conhecendo a biblioteca React Router*
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para acessar o desenvolvimento da página até agora, clique [aqui](https://learning-react-typescript-aluroni.vercel.app/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Ferramentas utilizadas:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* React
+* TypeScript
+* SASS
+* classnames
 
-## Learn More
+## Iniciando as versões do projeto na sua máquina
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Clone o repositório através do terminal:
+    - git clone *link do repositório*
+    - cd *pasta do repositório*
+ 
+- Entre na pasta da versão que você deseja iniciar:
+    - cd *nome da pasta*
+ 
+- Rode o código na sua máquina:
+    - npm install (para instalar as dependências do projeto)
+    - npm start (para abrir o projeto no seu navegador)
+ 
+* Caso o projeto não abra automaticamente, digite http://localhost:3000 no seu navegador
