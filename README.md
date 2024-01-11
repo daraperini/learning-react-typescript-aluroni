@@ -1,10 +1,12 @@
 # Aluroni
 
-Aluroni was developed during Alura's Class *React: handling static files*. This page consists in a Italian restaurant menu wich you can navigate as you wish: see the complete menu and order it using the ordanator options, filter specific dishes using the filters or search for a specific dish using the search input.
+Aluroni's development started during Alura's Class *React: handling static files*. In this class I created a Italian restaurant menu wich you can navigate as you wish: see the complete menu and order it using the ordanator options, filter specific dishes using the filters or search for a specific dish using the search input.
 
-For the developmento of the project I used TypeScript. CSS was written using CSS Modules and classNames package
+For the developmento of the project I used TypeScript. CSS was written using CSS Modules and classNames package.
 
-To see the final result, click [here](https://learning-react-typescript-aluroni.vercel.app/).
+> The project is expanding at the moment in the class *React: React Router library*
+
+To see the project development so far, click [here](https://learning-react-typescript-aluroni.vercel.app/).
 
 ## Used tools:
 
@@ -34,11 +36,13 @@ To see the final result, click [here](https://learning-react-typescript-aluroni.
 
 # Aluroni
 
-O Aluroni foi desenvolvido durante o curso *React: lidando com arquivos estáticos*, da Alura. Essa é a página de cardápio de um restaurante italiano no qual você consegue navegar de acordo com suas preferências: visualize o cardápio inteiro ordenando de acordo com as opções de ordenador, filtre pratos específicos utilizando os filtros ou pesquise por um prato em específico utilizando o input de busca.
+O Aluroni começou a ser desenvolvido durante o curso *React: lidando com arquivos estáticos*, da Alura. Nesse curso criei a página de cardápio de um restaurante italiano no qual você consegue navegar de acordo com suas preferências: visualize o cardápio inteiro ordenando de acordo com as opções de ordenador, filtre pratos específicos utilizando os filtros ou pesquise por um prato em específico utilizando o input de busca.
 
 Para o desenvolvimento do projeto foi utilizado TypeScript. O CSS foi escrito utilizando CSS Modules e o pacote classNames.
 
-Para acessar o resultado final da página, clique [aqui](https://learning-react-typescript-aluroni.vercel.app/).
+> No momento o projeto está sendo expandido durante o curso *React: conhecendo a biblioteca React Router*
+
+Para acessar o desenvolvimento da página até agora, clique [aqui](https://learning-react-typescript-aluroni.vercel.app/).
 
 ## Ferramentas utilizadas:
 
