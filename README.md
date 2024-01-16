@@ -2,9 +2,9 @@
 
 Aluroni's development started during Alura's Class *React: handling static files*. In this class I created a Italian restaurant menu wich you can navigate as you wish: see the complete menu and order it using the ordanator options, filter specific dishes using the filters or search for a specific dish using the search input.
 
-For the developmento of the project I used TypeScript. CSS was written using CSS Modules and classNames package.
+Then the code was refactored during the course *React: React Router library* so it would be possible to implement React Router. I also created new pages: home, about, details and Not Found. In this class I also standardize the code using ESLint.
 
-> The project is expanding at the moment in the class *React: React Router library*
+For the developmento of the project I used TypeScript. CSS was written using CSS Modules and classNames package.
 
 To see the project development so far, click [here](https://learning-react-typescript-aluroni.vercel.app/).
 
@@ -36,11 +36,11 @@ To see the project development so far, click [here](https://learning-react-types
 
 # Aluroni
 
-O Aluroni começou a ser desenvolvido durante o curso *React: lidando com arquivos estáticos*, da Alura. Nesse curso criei a página de cardápio de um restaurante italiano no qual você consegue navegar de acordo com suas preferências: visualize o cardápio inteiro ordenando de acordo com as opções de ordenador, filtre pratos específicos utilizando os filtros ou pesquise por um prato em específico utilizando o input de busca.
+O Aluroni começou a ser desenvolvido durante o curso *React: lidando com arquivos estáticos*, da Alura. Nesse curso criei a página de cardápio de um restaurante italiano no qual você consegue navegar de acordo com suas preferências: visualize o cardápio inteiro ordenando de acordo com as opções de ordenador, filtre pratos específicos utilizando os filtros ou pesquise por um prato em específico utilizando o input de busca. 
+
+Após, no curso *React: conhecendo a biblioteca React Router*, o código foi refatorado para que fosse possível implementar o React Router. Nesse curso também foram criadas novas páginas: página de início, sobre, detalhes dos pratos e Not Found. Também utilizei o ESLint para padronizar o código.
 
 Para o desenvolvimento do projeto foi utilizado TypeScript. O CSS foi escrito utilizando CSS Modules e o pacote classNames.
-
-> No momento o projeto está sendo expandido durante o curso *React: conhecendo a biblioteca React Router*
 
 Para acessar o desenvolvimento da página até agora, clique [aqui](https://learning-react-typescript-aluroni.vercel.app/).
 
