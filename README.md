@@ -14,6 +14,8 @@ To see the project development so far, click [here](https://learning-react-types
 * TypeScript
 * SASS
 * classnames
+* React Router
+* ESLint
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -50,6 +52,8 @@ Para acessar o desenvolvimento da página até agora, clique [aqui](https://lear
 * TypeScript
 * SASS
 * classnames
+* React Router
+* ESLint
 
 ## Iniciando as versões do projeto na sua máquina
 
